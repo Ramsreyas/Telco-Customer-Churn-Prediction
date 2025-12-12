@@ -1,6 +1,6 @@
 # End-to-End Telco Customer Churn Prediction
 
-[Click here to view the Dashboard](https://public.tableau.com/app/profile/ram.sreyas.j/viz/Customer_Churn_Analysis_Book/Dashboard1?publish=yes)
+[Click here to view the Dashboard](https://public.tableau.com/views/TelcoCustomerChurnPrediction_17655298877500/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 1. Business Problem The client faced a 27% churn rate, losing approximately $40k/month in revenue. The goal was to identify at-risk customers and key drivers of attrition to enable targeted retention campaigns.
 
